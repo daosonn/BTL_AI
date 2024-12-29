@@ -39,11 +39,9 @@ The dataset is structured to capture sensor readings from an accelerometer and g
 
 ### Labels:
 
-- **0**: Running
-- **1**: Sitting
-- **2**: Climbing stairs
+WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
-Each record in the dataset represents a set of 100 samples collected over a brief time window for the six sensor axes.
+Each record in the dataset represents a set of 128 samples collected over a brief time window for the six sensor axes.
 
 ---
 
