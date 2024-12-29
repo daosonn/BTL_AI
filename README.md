@@ -1,4 +1,4 @@
-# Human Activity Recognition (HAR) - 3 Activities
+# Human Activity Recognition (HAR) - 6 Activities
 
 This repository focuses on Human Activity Recognition (HAR) for three specific activities: **running**, **sitting**, and **climbing stairs**. HAR is a vital component of wearable technology applications, such as fitness tracking, health monitoring, and context-aware systems.
 
